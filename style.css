@@ -1,0 +1,40 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ffcebb;
+    text-align: center;
+}
+
+h1 {
+    text-transform: uppercase;
+    text-decoration: underline;
+    color: rgb(194, 90, 78);
+    font-weight: 700;
+    text-align: center;
+}
+.list-container {
+    text-align: center;
+}
+.home-list {
+    display: inline-block;
+
+}
+
+a {
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+    }
+
+.ingredients,
+.steps {
+    text-align: left;
+    text-decoration: underline;
+}
+
+.recipe-li-container li {
+    text-align: left;
+}
+
+.recipe-img {
+    border-radius: 65%;
+    padding: 1em;
+}
